@@ -4,7 +4,8 @@ This is a clone of the **Mines Casino game** as seen on [Stake](https://stake.co
 
 Feel free to fork this repo, play around, and even **submit a pull request** if you’d like to improve it! Contributions are welcome 🙌
 
-### You can try this project now directly online: [https://mines-stake.vercel.app/](https://mines-stake.vercel.app/)
+## 🔗 Live Demo
+You can preview the project, hosted here: [mines-stake.vercel.app](https://mines-stake.vercel.app/)
 
 ## 🎮 Screenshots
 
